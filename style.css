@@ -204,7 +204,7 @@ button:hover {
 } 
 
 
-@media screen and (max-width: 665px){
+@media screen and (max-width: 650px){
     .container {
         flex-direction: column;
         height: 100%;
